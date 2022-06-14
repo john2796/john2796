@@ -1,4 +1,4 @@
-## Hi 👋, I'm John Miranda
+## Hi 👋, I'm John 🥷🏻
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - ⚛️ I love React, React Native, Typescript, and Node.js
