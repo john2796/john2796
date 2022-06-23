@@ -3,6 +3,7 @@
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - ⚛️ I love React, React Native, Typescript, and Node.js
 - 🌱 I’m currently learning Swift, DSA
+- 💜 @BloomTech Alumni
 
 ## 📫 How to reach me:
 
