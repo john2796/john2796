@@ -32,11 +32,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40">          
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40">     
   
-  title="Python" alt="Python" width="40" height="40">          
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Vscode" alt="Vscode" width="40" height="40">  
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   
-    title="mysql" alt="mysql" width="40" height="40">          
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Vscode" alt="Vscode" width="40" height="40">  
+ <img src="[https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)" title="mysql" alt="mysql" width="40" height="40"/>&nbsp; 
 </p>
 
 
