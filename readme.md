@@ -1,9 +1,5 @@
 ## Hi 👋, I'm John Benedict
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- ⚛️ I love React, React Native, Typescript, and Node.js
-- 💜 @BloomTech Alumni
-
 ## 📫 How to reach me:
 
 - 📤 [Email](mailto:mirandajohn2708@gmail.com) 
