@@ -6,7 +6,7 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/johnbenedictmiranda/)
 - 🌐 [Website](https://www.johnbenedictmiranda.com/)
 
-Tech Stack:  .NET Framework · Angular · ReactJS · JavaScript · C# · MySQL · ASP.NET
+Tech Stack:  .NET Framework · ReactJS · Angular · JavaScript · C# · MySQL · ASP.NET
 ---
 
 ## 🛠 &nbsp;Languages and Tools :
