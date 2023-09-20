@@ -6,6 +6,7 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/johnbenedictmiranda/)
 - 🌐 [Website](https://www.johnbenedictmiranda.com/)
 
+Tech Stack:  .NET Framework · Angular · ReactJS · JavaScript · C# · MySQL · ASP.NET
 ---
 
 ## 🛠 &nbsp;Languages and Tools :
@@ -23,8 +24,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;  
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40">          
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40">     
 </p>
 
