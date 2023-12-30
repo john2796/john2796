@@ -6,7 +6,7 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/johnbenedictmiranda/)
 - 🌐 [Website](https://www.johnbenedictmiranda.com/)
 
-Tech Stack:  .NET Framework · ReactJS · Angular · JavaScript · C# · MySQL · ASP.NET
+ReactJS - Frontend - MERN - Python - IOS - SwiftUI learner
 ---
 
 ## 🛠 &nbsp;Languages and Tools :
