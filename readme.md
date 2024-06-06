@@ -4,7 +4,7 @@
 
 - 📤 [Email](mailto:mirandajohn2708@gmail.com) 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/johnbenedictmiranda/)
-- 🌐 [Website](https://www.johnbenedictmiranda.com/)
+
 
 ReactJS - Frontend && IOS - SwiftUI | Python
 ---
