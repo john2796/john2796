@@ -6,7 +6,7 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/johnbenedictmiranda/)
 
 
-React.js - React Native - Frontend && IOS - SwiftUI | Python
+React.js - React Native - Frontend && IOS - SwiftUI | Python | C# .NET
 ---
 
 ## 🛠 &nbsp;Languages and Tools :
